@@ -1,0 +1,16 @@
+.footer__copyrating {
+  margin: 0 0;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  max-height: 16px;
+  color: #FFFFFF;
+}
+
+@media (max-width: 767px) {
+  .footer__copyrating {
+    line-height: 14px
+  }
+}

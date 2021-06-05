@@ -1,0 +1,6 @@
+.cover__link {
+  width: 100%;
+  min-height: inherit;
+  text-decoration: none;
+  transition: background-color .4s ease-out;
+}

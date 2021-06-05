@@ -1,0 +1,15 @@
+.content__section {
+  margin-bottom: 92px;
+}
+
+@media (max-width: 1023px) {
+  .content__section {
+    margin-bottom: 88px;
+  }
+}
+
+@media (max-width: 767px) {
+  .content__section {
+    margin-bottom: 64px;
+  }
+}
