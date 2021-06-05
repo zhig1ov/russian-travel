@@ -68,7 +68,7 @@
   flex-wrap: wrap;
 }
 
-.header_indent {
+.page__header {
   margin: 28px auto 56px;
 }
 
@@ -363,7 +363,7 @@ font-family: 'Inter';
 }
 
 @media (max-width: 500px) {
-  .cover__title {;
+  .cover__title {
     padding: 0 16px;
     max-width: 250px;
 }
@@ -662,3 +662,9 @@ font-family: 'Inter';
     margin-bottom: 64px;
   }
 }
+
+
+
+
+
+
