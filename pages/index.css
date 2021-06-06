@@ -11,9 +11,9 @@
 @import url(../blocks/footer/footer.css);
 
 @import url(../blocks/page/__section/page__section.css);
-@import url(../blocks/page/__narrow/page__narrow.css);
 @import url(../blocks/page/__header/page__header.css);
 @import url(../blocks/page/__lead/page__lead.css);
+@import url(../blocks/page/__intro/page__intro.css);
 @import url(../blocks/page/__places/page__places.css);
 @import url(../blocks/page/__cover/page__cover.css);
 @import url(../blocks/page/__footer/page__footer.css);
